@@ -4,8 +4,8 @@
 const aboutMe = {
   name: "Donya Elbanna",
   bio: "Front-end Web Developer",
-  skills: ["HTML", "CSS", "JavaScript", "ES6", "React", "Redux", "NodeJS", "Bootstrap", "Semantic UI", "Material UI"]
-  email: "donyaelbanna@yahoo.com"
+  skills: ["HTML", "CSS", "JavaScript", "ES6", "React", "Redux", "NodeJS", "Bootstrap", "Semantic UI", "Material UI"],
+  email: "donyaelbanna@yahoo.com",
 }
 ```
 
