@@ -1,10 +1,10 @@
 ### Hi there 👋 I am < Donya />
 
 const aboutMe = {
-name: "Donya Elbanna",
-bio: "Front-end Web Developer",
-skills: ["HTML", "CSS", "JavaScript", "ES6", "React", "Redux", "NodeJS", "Bootstrap", "Semantic UI", "Material UI"]
-email: "donyaelbanna@yahoo.com"
+  name: "Donya Elbanna",
+  bio: "Front-end Web Developer",
+  skills: ["HTML", "CSS", "JavaScript", "ES6", "React", "Redux", "NodeJS", "Bootstrap", "Semantic UI", "Material UI"]
+  email: "donyaelbanna@yahoo.com"
 }
 
 <!--
