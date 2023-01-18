@@ -10,7 +10,7 @@ const aboutMe = {
 ```
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donya-elbanna/)
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=DonyaElbanna)
+<!-- ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=DonyaElbanna) -->
 
 <!--
 **DonyaElbanna/DonyaElbanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
