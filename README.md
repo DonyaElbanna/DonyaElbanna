@@ -1,5 +1,5 @@
 ### Hi there 👋 I am < Donya />
-<!--  
+  
 ``` JS
 const aboutMe = {
   name: "Donya Elbanna",
@@ -9,7 +9,7 @@ const aboutMe = {
 }
 ```
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donya-elbanna/)-->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donya-elbanna/)
 
 
 <!-- ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=DonyaElbanna) -->
